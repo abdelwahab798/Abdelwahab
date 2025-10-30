@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdelwahab Amr  
 
 🎓 **Software Engineering Student | AI & Data Science Enthusiast**  
-📍 Monufia, Egypt  
+📍 El Mokattam, Egypt  
 
 ---
 
